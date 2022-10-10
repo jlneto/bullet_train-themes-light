@@ -17,10 +17,10 @@
 
   --dark-accent-200: #b3bcde;
 
-  --light-gradient-from: #D7BBEA;
-  --light-gradient-to: #65A8F1;
-  --dark-gradient-from: #633d7d;
-  --dark-gradient-to: #2867ab;
+  --light-gradient-from: #778eaa;
+  --light-gradient-to: #638df6;
+  --dark-gradient-from: #778eaa;
+  --dark-gradient-to: #264696;
 }
 
 .theme-purple {
